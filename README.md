@@ -1,1 +1,2 @@
 # jsassignments
+JavaScript assignments 
